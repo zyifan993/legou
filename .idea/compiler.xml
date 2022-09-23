@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="legou-pay" />
+        <module name="legou-order-interface" />
+        <module name="legou-security-instance" />
+        <module name="legou-page" />
+        <module name="legou-core" />
+        <module name="gateway" />
+        <module name="legou-admin-service" />
+        <module name="legou-search-service" />
+        <module name="legou-security-service" />
+        <module name="legou-search-instance" />
+        <module name="registry" />
+        <module name="legou-admin-instance" />
+        <module name="legou-common" />
+        <module name="legou-item-instance" />
+        <module name="legou-upload" />
+        <module name="config" />
+        <module name="legou-item-service" />
+        <module name="auth-center" />
+        <module name="legou-canal" />
+        <module name="legou-order-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="legou-order" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="auth-center" options="-parameters" />
+      <module name="config" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="legou-admin-instance" options="-parameters" />
+      <module name="legou-admin-service" options="-parameters" />
+      <module name="legou-canal" options="-parameters" />
+      <module name="legou-common" options="-parameters" />
+      <module name="legou-core" options="-parameters" />
+      <module name="legou-item-instance" options="-parameters" />
+      <module name="legou-item-service" options="-parameters" />
+      <module name="legou-order" options="-parameters" />
+      <module name="legou-order-interface" options="-parameters" />
+      <module name="legou-order-service" options="-parameters" />
+      <module name="legou-page" options="-parameters" />
+      <module name="legou-pay" options="-parameters" />
+      <module name="legou-search-instance" options="-parameters" />
+      <module name="legou-search-service" options="-parameters" />
+      <module name="legou-security-instance" options="-parameters" />
+      <module name="legou-security-service" options="-parameters" />
+      <module name="legou-upload" options="-parameters" />
+      <module name="registry" options="-parameters" />
+    </option>
+  </component>
+</project>

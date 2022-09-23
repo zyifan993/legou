@@ -1,0 +1,20 @@
+# Project exclude paths
+/auth-center/target/
+/config/target/
+/gateway/target/
+/legou-admin/legou-admin-instance/target/
+/legou-admin/legou-admin-service/target/
+/legou-canal/target/
+/legou-common/target/
+/legou-core/target/
+/legou-item/legou-item-instance/target/
+/legou-item/legou-item-service/target/
+/legou-order/legou-order-interface/target/
+/legou-order/legou-order-service/target/
+/legou-page/target/
+/legou-search/legou-search-instance/target/
+/legou-search/legou-search-service/target/
+/legou-security/legou-security-instance/target/
+/legou-security/legou-security-service/target/
+/legou-upload/target/
+/registry/target/

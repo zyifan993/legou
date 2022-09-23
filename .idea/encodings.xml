@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/auth-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-admin/legou-admin-instance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-admin/legou-admin-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-canal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-item/legou-item-instance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-item/legou-item-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-order/legou-order-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-order/legou-order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-page/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-search/legou-search-instance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-search/legou-search-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-security/legou-security-instance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-security/legou-security-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/legou-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/registry/src/main/java" charset="UTF-8" />
+  </component>
+</project>
